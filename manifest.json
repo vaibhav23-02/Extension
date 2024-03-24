@@ -1,0 +1,14 @@
+{
+  "name": "Title Picker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icons16.png",
+      "48": "images/icons16.png",
+      "128": "images/icons16.png"
+    }
+  },
+  "permissions": ["activeTab"]
+}
